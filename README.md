@@ -26,7 +26,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XytheScripts/MyRoblox
 •Inf Money <br>
 •Inf Gems <br>
 •Auto Roll <br>
-•Role For Free <br>
+•Roll For Free <br>
 
 
 <br><br>
